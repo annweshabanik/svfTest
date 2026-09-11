@@ -16,7 +16,6 @@ jspm_packages/
 web_modules/
 
 # Production output
-dist/
 dist-ssr/
 build/
 
